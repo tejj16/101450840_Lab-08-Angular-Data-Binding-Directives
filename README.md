@@ -5,23 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img width="1512" alt="Screenshot 2025-03-22 at 10 27 25 AM" src="https://github.com/user-attachments/assets/035b8192-9c0a-4d35-a7d7-8a77639eb40c" />
+<img width="1512" alt="Screenshot 2025-03-22 at 10 27 30 AM" src="https://github.com/user-attachments/assets/8fff475d-e3e9-4eec-a5bf-6065d61cd70d" />
 
-## Code scaffolding
+<img width="1512" alt="Screenshot 2025-03-22 at 10 27 32 AM" src="https://github.com/user-attachments/assets/9e0e3964-7ebc-4089-b7ff-b156bff1ca50" />
+<img width="1512" alt="Screenshot 2025-03-22 at 10 28 28 AM" src="https://github.com/user-attachments/assets/e1cf5f58-586b-4a61-b6b7-6f624ce15646" />
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
